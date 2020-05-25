@@ -1,0 +1,28 @@
+{
+  "name": "api-request-manager",
+  "version": "1.0.0",
+  "description": "pre-configure api endpoints as functional units",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinpeno/api-request-manager.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "api",
+    "rest"
+  ],
+  "author": "Kevin Peno",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/kevinpeno/api-request-manager/issues"
+  },
+  "homepage": "https://github.com/kevinpeno/api-request-manager#readme",
+  "dependencies": {
+    "typescript": "^3.9.3"
+  }
+}
